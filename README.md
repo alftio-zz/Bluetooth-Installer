@@ -37,10 +37,14 @@ Currently there are seven utilities in the suite:
 
         Enables or disables remote bluetooth services, manipulates bluetooth COM ports. (More info and btcom usage examples...)
 
-# INSTALLER
+## INSTALLER
 [Bluetooth command line tools setup package](https://bluetoothinstaller.com/bluetooth-command-line-tools/BluetoothCLTools-1.2.0.56.exe)
 
 
 For details directly visit https://bluetoothinstaller.com/bluetooth-command-line-tools
 
+## Recognitions
+ - Impressive thanks to the [Bluetooth installer team](https://bluetoothinstaller.com/bluetooth-command-line-tools) whose consolidated and developed all the logic to interact with the devices.
+ - Many thanks to howheels by the guidance on [Reddit](https://www.reddit.com/r/windowsinsiders/comments/od7p0d/comment/hhe68la/?utm_source=share&utm_medium=web2x&context=3)
+ 
 
